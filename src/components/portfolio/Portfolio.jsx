@@ -1,6 +1,6 @@
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../assets/portfolio1.jpg'
+import IMG1 from '../../assets/simon.png'
 import IMG2 from '../../assets/portfolio2.jpg'
 import IMG3 from '../../assets/portfolio3.jpg'
 import IMG4 from '../../assets/portfolio4.jpg'
@@ -11,9 +11,9 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Todo Web-app',
-    github: 'https://github.com',
-    demo: 'https://shrouded-plateau-40189.herokuapp.com/'
+    title: 'Simon Game',
+    github: 'https://github.com/asjadreza/Simon_game',
+    demo: 'https://asjadreza.github.io/Simon_game/'
   },
 
   {
