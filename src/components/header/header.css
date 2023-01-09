@@ -38,7 +38,9 @@ header {
 
 /* ================ ME ================== */
 .me {
-    background: linear-gradient(var(--color-primary), transparent);
+    /* background: linear-gradient(var(--color-primary), transparent);
+     */
+    background: linear-gradient(#8c7f7f, transparent);
     width: 22rem;
     height: 30rem;
     position: absolute;
@@ -51,10 +53,10 @@ header {
 
 .me img {
     display: block;
-    width: 100%;
+    width: 132%;
     position: relative;
-    bottom: 146px;
-    right: 5px;
+    bottom: 34px;
+    right: 57px;
 }
 
 /* ================ SCROLL DOWN ================== */
